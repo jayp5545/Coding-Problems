@@ -10,7 +10,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |       Problem Solution         |                                                                          Problem Statement                                                                |Difficulty|
 |:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Medium    |
-|[0744. Find Smallest Letter Greater Than Target
-.cpp](Solutions/0744.cpp)              |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                                    |Easy    |
+|[0744. Find Smallest Letter Greater Than Target.cpp](Solutions/0744.cpp)              |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                                    |Easy    |
 |[0162. Koko Eating Bananas.cpp](Solutions/0875.cpp)              |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                    |Medium    |
-
+|[1482. Minimum umebr of Days to Make m Bouquets.cpp](Solutions/0875.cpp)              |[Minimum Number of Days to Make m Bouquets
+](https://leetcode.com/problems/koko-eating-bananas/)               |Medium    |
