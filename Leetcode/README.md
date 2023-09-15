@@ -16,4 +16,5 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0875. Koko Eating Bananas.cpp](Solutions/0875.cpp)              |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                    |Medium    |
 |[1482. Minimum number of Days to Make m Bouquets.cpp](Solutions/1482.cpp)              |[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)               |Medium    |
 |[1482. Minimum number of Days to Make m Bouquets.cpp](Solutions/1482.cpp)              |[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)               |Medium    |
+|[1901. Find a Preak Element II.cpp](Solutions/1901.cpp)              |[Find a Preak Element II](https://leetcode.com/problems/find-a-peak-element-ii/description/)               |Medium    |
 
