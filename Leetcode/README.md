@@ -9,6 +9,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 
 |       Problem Solution         |                                                                          Problem Statement                                                                |Difficulty|
 |:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|
+|[0004. Longest Substring without Repeating Characters](Solutions/0003.cpp)              |[Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)               |Medium    |
 |[0004. Median of Two Sorted Arrays](Solutions/0004.cpp)              |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)               |Hard    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Medium    |
 |[0410. Split Array Largest Sum.cpp](Solutions/0410.cpp)              |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                     |Hard|
