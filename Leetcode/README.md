@@ -14,6 +14,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](hhttps://leetcode.com/problems/reverse-string/description/)                                    |Easy    |
 |[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/find-peak-element/)                                    |Medium    |
 |[0410. Split Array Largest Sum.cpp](Solutions/0410.cpp)              |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                     |Hard|
+|[0424. Longest Repeating Character Replacement.cpp](Solutions/0424.cpp)              |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)                     |Medium|
 |[0744. Find Smallest Letter Greater Than Target.cpp](Solutions/0744.cpp)              |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                                    |Easy    |
 |[0875. Binary Subarray With Sum.cpp](Solutions/0930.cpp)              |[Binary Subarray With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/ )                                    |Medium    |
 |[0930. Koko Eating Bananas.cpp](Solutions/0875.cpp)              |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                    |Medium    |
