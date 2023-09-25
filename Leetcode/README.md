@@ -11,8 +11,8 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |:------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------:|:--------:|
 |[0004. Longest Substring without Repeating Characters](Solutions/0003.cpp)              |[Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)               |Medium    |
 |[0004. Median of Two Sorted Arrays](Solutions/0004.cpp)              |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)               |Hard    |
-|[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](hhttps://leetcode.com/problems/reverse-string/description/)                                    |Easy    |
-|[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/find-peak-element/)                                    |Medium    |
+|[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
+|[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/reverse-string/description/)                                    |Medium    |
 |[0410. Split Array Largest Sum.cpp](Solutions/0410.cpp)              |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                     |Hard|
 |[0424. Longest Repeating Character Replacement.cpp](Solutions/0424.cpp)              |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)                     |Medium|
 |[0744. Find Smallest Letter Greater Than Target.cpp](Solutions/0744.cpp)              |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                                    |Easy    |
@@ -23,5 +23,6 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1358. Number of Substrings Containing All Three Characters.cpp](Solutions/1358.cpp)              |[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)                       | Medium    |
 |[1423. Maximum Points You Can Obtain from Cards.cpp](Solutions/1423.cpp)              |[Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)               |Medium    |
 |[1482. Minimum number of Days to Make m Bouquets.cpp](Solutions/1482.cpp)              |[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)               |Medium    |
+|[1752. Check if Array is Sorted and Rotated.cpp](Solutions/1752.cpp)              |[Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)   |Easy    | 
 |[1901. Find a Preak Element II.cpp](Solutions/1901.cpp)              |[Find a Preak Element II](https://leetcode.com/problems/find-a-peak-element-ii/description/)               |Medium    |
 
