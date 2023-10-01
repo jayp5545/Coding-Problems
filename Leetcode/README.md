@@ -15,6 +15,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0078. Subsets](Solutions/0078.cpp)              |[Subsets](https://leetcode.com/problems/subsets/description/)               |Medium    |
 |[0079. Word Search](Solutions/0079.cpp)              |[Word Search](https://leetcode.com/problems/word-search/description/)               |Medium    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
+|[0206. Reverse Linked List.cpp](Solutions/0206.cpp)              |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                    |Easy    |
 |[0267. Delete Node in a Linked List.cpp](Solutions/0237.cpp)              |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                | Easy    |
 |[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/reverse-string/description/)                                    |Medium    |
 |[0410. Split Array Largest Sum.cpp](Solutions/0410.cpp)              |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                     |Hard|
