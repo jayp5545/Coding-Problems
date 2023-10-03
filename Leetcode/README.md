@@ -32,4 +32,5 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1482. Minimum number of Days to Make m Bouquets.cpp](Solutions/1482.cpp)              |[Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)               |Medium    |
 |[1752. Check if Array is Sorted and Rotated.cpp](Solutions/1752.cpp)              |[Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)   |Easy    | 
 |[1901. Find a Preak Element II.cpp](Solutions/1901.cpp)              |[Find a Preak Element II](https://leetcode.com/problems/find-a-peak-element-ii/description/)               |Medium    |
+|[2130. Maximum Twin Sum of a Linked List.cpp](Solutions/2130.cpp)              |[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)               |Medium    |
 
