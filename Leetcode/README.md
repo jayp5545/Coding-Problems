@@ -14,6 +14,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0039. Combination Sum](Solutions/0039.cpp)              |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)               |Medium    |
 |[0078. Subsets](Solutions/0078.cpp)              |[Subsets](https://leetcode.com/problems/subsets/description/)               |Medium    |
 |[0079. Word Search](Solutions/0079.cpp)              |[Word Search](https://leetcode.com/problems/word-search/description/)               |Medium    |
+|[0079. Linked List Cycle](Solutions/0141.cpp)              |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)               |Medium    |
 |[0142. Linked List Cycle II.cpp](Solutions/0142.cpp)              |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)               |Medium    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
 |[0206. Reverse Linked List.cpp](Solutions/0206.cpp)              |[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                                    |Easy    |
