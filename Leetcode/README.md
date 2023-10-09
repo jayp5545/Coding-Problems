@@ -12,6 +12,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0004. Longest Substring without Repeating Characters](Solutions/0003.cpp)              |[Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)               |Medium    |
 |[0004. Median of Two Sorted Arrays](Solutions/0004.cpp)              |[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)               |Hard    |
 |[0022. Generate Parentheses](Solutions/0022.cpp)              |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)               |Medium    |
+|[0022.  Find First and Last Position of Element in Sorted Array](Solutions/0022.cpp)              |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)               |Medium    |
 |[0039. Combination Sum](Solutions/0039.cpp)              |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)               |Medium    |
 |[0078. Subsets](Solutions/0078.cpp)              |[Subsets](https://leetcode.com/problems/subsets/description/)               |Medium    |
 |[0079. Subsets II](Solutions/0090.cpp)              |[Subsets II](https://leetcode.com/problems/subsets-ii/)               |Medium    |
