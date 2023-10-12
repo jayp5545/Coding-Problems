@@ -14,6 +14,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0022. Generate Parentheses](Solutions/0022.cpp)              |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)               |Medium    |
 |[0022.  Find First and Last Position of Element in Sorted Array](Solutions/0022.cpp)              |[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)               |Medium    |
 |[0039. Combination Sum](Solutions/0039.cpp)              |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)               |Medium    |
+|[0042. Trapping Rain Water](Solutions/0042.cpp)              |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)               |Hard |
 |[0078. Subsets](Solutions/0078.cpp)              |[Subsets](https://leetcode.com/problems/subsets/description/)               |Medium    |
 |[0079. Subsets II](Solutions/0090.cpp)              |[Subsets II](https://leetcode.com/problems/subsets-ii/)               |Medium    |
 |[0079. Word Search](Solutions/0079.cpp)              |[Word Search](https://leetcode.com/problems/word-search/description/)               |Medium    |
