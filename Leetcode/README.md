@@ -23,6 +23,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
 |[0206. Reverse Linked List.cpp](Solutions/0206.cpp)              |[Reverse Linked List](https://leetcode.com/problems/combination-sum-iii/)                                    |Easy    |
 |[0216. Combination Sum III.cpp](Solutions/0216.cpp)              |[Combination Sum III](https://leetcode.com/problems/reverse-linked-list/description/)                                    |Medium    |
+|[0225. Implement Stack using Queues.cpp](Solutions/0216.cpp)              |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                    |Medium    |
 |[0267. Delete Node in a Linked List.cpp](Solutions/0237.cpp)              |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                | Easy    |
 |[0316. Remove Duplicate Characters.cpp](Solutions/0316.cpp)              |[Remove Duplicate Characters](https://leetcode.com/problems/remove-duplicate-letters/description/)                                    |Medium    |
 |[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/reverse-string/description/)                                    |Medium    |
