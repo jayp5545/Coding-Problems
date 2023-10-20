@@ -20,6 +20,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0079. Subsets II](Solutions/0090.cpp)              |[Subsets II](https://leetcode.com/problems/subsets-ii/)               |Medium    |
 |[0079. Word Search](Solutions/0079.cpp)              |[Word Search](https://leetcode.com/problems/word-search/description/)               |Medium    |
 |[0079. Linked List Cycle](Solutions/0141.cpp)              |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)               |Medium    |
+|[0094. Binary Tree Inorder Traversal](Solutions/0094.cpp)              |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)               |Easy    |
 |[0142. Binary Tree Level Order Traversal.cpp](Solutions/0142.cpp)              |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)         | Medium    |
 |[0142. Linked List Cycle II.cpp](Solutions/0142.cpp)              |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)               |Medium    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
