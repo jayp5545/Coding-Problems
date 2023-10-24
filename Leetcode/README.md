@@ -52,5 +52,6 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1752. Check if Array is Sorted and Rotated.cpp](Solutions/1752.cpp)              |[Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)   |Easy    | 
 |[1901. Find a Preak Element II.cpp](Solutions/1901.cpp)              |[Find a Preak Element II](https://leetcode.com/problems/find-a-peak-element-ii/description/)               |Medium    |
 |[2130. Maximum Twin Sum of a Linked List.cpp](Solutions/2130.cpp)              |[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)               |Medium    |
+|[2236. Root Equals Sum of Children.cpp](Solutions/2130.cpp)              |[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)               |Easy    |
 |[2390. Removing Stars From a String.cpp](Solutions/2390.cpp)              |[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)               |Medium    |
 
