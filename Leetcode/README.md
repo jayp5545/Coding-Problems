@@ -41,6 +41,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0503. Next Greater ELement II.cpp](Solutions/0503.cpp)              |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)                     |Medium|
 |[0563. Binary Tree Tilt.cpp](Solutions/0503.cpp)              |[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)                     |Easy|
 |[0572. Subtree of Another Tree .cpp](Solutions/0572.cpp)              |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                     |Easy|
+|[0617. Merge Two Binary Trees.cpp](Solutions/0572.cpp)              |[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/)                     |Easy|
 |[0733. Flood Fill.cpp](Solutions/0733.cpp)              |[Flood Fill](https://leetcode.com/problems/flood-fill/description/)                     |Easy|
 |[0744. Find Smallest Letter Greater Than Target.cpp](Solutions/0744.cpp)              |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                                    |Easy    |
 |[0779. K-th Symbol in Grammar.cpp](Solutions/0779.cpp)              |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)                                    |Medium    |
