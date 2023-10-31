@@ -26,7 +26,9 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0104. Maximum Depth of Binary Tree](Solutions/0104.cpp)              |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)               |Easy    |
 |[0106. Contruct Binary Tree from Inorder and Postorder Traversal](Solutions/0106.cpp)              |[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)               |Medium    |
 |[0110. Balanced Binary Tree](Solutions/0110.cpp)              |[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/)               |Easy    |
+|[0114. Flatten Binary Tree to Linked List](Solutions/0110.cpp)              |[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/)               |Medium    |
 |[0116. Populating Next Right Pointers in Each Node](Solutions/0110.cpp)              |[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/)               |Medium    |
+|[0129. Sum Root to Leaf Numbers](Solutions/0129.cpp)              |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)               |Medium    |
 |[0142. Binary Tree Level Order Traversal.cpp](Solutions/0142.cpp)              |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)         | Medium    |
 |[0142. Linked List Cycle II.cpp](Solutions/0142.cpp)              |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)               |Medium    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
