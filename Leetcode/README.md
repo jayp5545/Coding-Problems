@@ -41,6 +41,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/reverse-string/description/)                                    |Medium    |
 |[0410. Split Array Largest Sum.cpp](Solutions/0410.cpp)              |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                     |Hard|
 |[0424. Longest Repeating Character Replacement.cpp](Solutions/0424.cpp)              |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)                     |Medium|
+|[0450. Delete Node in a BST.cpp](Solutions/0424.cpp)              |[Delete Node in a BST](/https://leetcode.com/problems/delete-node-in-a-bst/description/)                     |Medium|
 |[0503. Next Greater ELement II.cpp](Solutions/0503.cpp)              |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)                     |Medium|
 |[0563. Binary Tree Tilt.cpp](Solutions/0503.cpp)              |[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/description/)                     |Easy|
 |[0572. Subtree of Another Tree .cpp](Solutions/0572.cpp)              |[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)                     |Easy|
