@@ -63,6 +63,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1901. Find a Preak Element II.cpp](Solutions/1901.cpp)              |[Find a Preak Element II](https://leetcode.com/problems/find-a-peak-element-ii/description/)               |Medium    |
 |[2130. Maximum Twin Sum of a Linked List.cpp](Solutions/2130.cpp)              |[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)               |Medium    |
 |[2236. Root Equals Sum of Children.cpp](Solutions/2130.cpp)              |[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)               |Easy    |
+|[2265. Count Nodes Equal to Average of Subtree.cpp](Solutions/2130.cpp)              |[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/)            |Medium    |
 |[2390. Removing Stars From a String.cpp](Solutions/2390.cpp)              |[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)               |Medium    |
 |[2914. Minimum Number of Changes to Make Binary String Beautiful.cpp](Solutions/2914.cpp)              |[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)               |Medium    |
 
