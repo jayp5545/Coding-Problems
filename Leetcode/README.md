@@ -37,6 +37,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0216. Combination Sum III.cpp](Solutions/0216.cpp)              |[Combination Sum III](https://leetcode.com/problems/reverse-linked-list/description/)                                    |Medium    |
 |[0225. Implement Stack using Queues.cpp](Solutions/0216.cpp)              |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                    |Medium    |
 |[0226. Invert Binary Tree.cpp](Solutions/0237.cpp)              |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                | Easy    |
+|[0230. Kth Smallest Element in a BST.cpp](Solutions/0230.cpp)              |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                | Medium    |
 |[0267. Delete Node in a Linked List.cpp](Solutions/0237.cpp)              |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                | Easy    |
 |[0316. Remove Duplicate Characters.cpp](Solutions/0316.cpp)              |[Remove Duplicate Characters](https://leetcode.com/problems/remove-duplicate-letters/description/)                                    |Medium    |
 |[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/reverse-string/description/)                                    |Medium    |
