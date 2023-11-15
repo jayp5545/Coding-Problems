@@ -34,6 +34,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0142. Linked List Cycle II.cpp](Solutions/0142.cpp)              |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)               |Medium    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
 |[0206. Reverse Linked List.cpp](Solutions/0206.cpp)              |[Reverse Linked List](https://leetcode.com/problems/combination-sum-iii/)                                    |Easy    |
+|[0210. Course Schedule II.cpp](Solutions/0210.cpp)              |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)                                    |Medium    |
 |[0216. Combination Sum III.cpp](Solutions/0216.cpp)              |[Combination Sum III](https://leetcode.com/problems/reverse-linked-list/description/)                                    |Medium    |
 |[0225. Implement Stack using Queues.cpp](Solutions/0216.cpp)              |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                    |Medium    |
 |[0226. Invert Binary Tree.cpp](Solutions/0237.cpp)              |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                | Easy    |
