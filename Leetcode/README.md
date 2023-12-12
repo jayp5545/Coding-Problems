@@ -20,6 +20,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0079. Subsets II](Solutions/0090.cpp)              |[Subsets II](https://leetcode.com/problems/subsets-ii/)               |Medium    |
 |[0079. Word Search](Solutions/0079.cpp)              |[Word Search](https://leetcode.com/problems/word-search/description/)               |Medium    |
 |[0079. Linked List Cycle](Solutions/0141.cpp)              |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)               |Medium    |
+|[0088. Merge Sorted Array](Solutions/0088.cpp)              |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)               |Easy    |
 |[0094. Binary Tree Inorder Traversal](Solutions/0094.cpp)              |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)               |Easy    |
 |[0099. Recover Binary Search Tree](Solutions/0099.cpp)              |[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/)               |Medium    |
 |[0100. Same Tree](Solutions/0100.cpp)              |[Same Tree](https://leetcode.com/problems/same-tree/description/)               |Easy    |
@@ -34,6 +35,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0142. Linked List Cycle II.cpp](Solutions/0142.cpp)              |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)               |Medium    |
 |[0151. Reverse Words in a String.cpp](Solutions/0151.cpp)              |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)               |Medium    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
+|[0198. House Robber.cpp](Solutions/0198.cpp)              |[House Robber](https://leetcode.com/problems/house-robber/description/)                                    |Medium    |
 |[0206. Reverse Linked List.cpp](Solutions/0206.cpp)              |[Reverse Linked List](https://leetcode.com/problems/combination-sum-iii/)                                    |Easy    |
 |[0210. Course Schedule II.cpp](Solutions/0210.cpp)              |[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)                                    |Medium    |
 |[0215. Kth Largest Elemeny in an Array.cpp](Solutions/0215.cpp)              |[Kth Largest Elemeny in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)                                    |Medium    |
