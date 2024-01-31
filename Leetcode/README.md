@@ -87,4 +87,5 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[2390. Removing Stars From a String.cpp](Solutions/2390.cpp)              |[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)               |Medium    |
 [2610. Convert An Array Into a 2D Array With Conditions.cpp](Solutions/2390.cpp)              |[Convert An Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/description/)               |Medium    |
 |[2914. Minimum Number of Changes to Make Binary String Beautiful.cpp](Solutions/2914.cpp)              |[Minimum Number of Changes to Make Binary String Beautiful](https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/description/)               |Medium    |
+|[3011.  Find if Array Can Be Sorted.cpp](Solutions/3011.cpp)              |[ Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)               |Medium    |
 
