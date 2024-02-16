@@ -1,0 +1,34 @@
+    class Solution {
+    public:
+        void solve(vector<int>& candidates,vector<vector<int>>& ans,int remainingSum,int n,int idx,vector<int>& ds){
+            if(idx == n){
+                if(remainingSum == 0){
+                    ans.push_back(ds);
+                }
+                return;
+            }
+
+            // Picking it up.
+            int currVal = candidates[idx];
+            if( currVal <= remainingSum){
+                ds.push_back(currVal);
+                solve(candidates,ans,remainingSum - currVal ,n,idx+1,ds);
+                ds.pop_back();
+            }
+            for(int i=idx;i<n;i++){
+                if(candidates[i] == candidates[idx]){
+                    idx=i;
+                }
+            }
+            solve(candidates,ans,remainingSum,n,idx+1,ds);
+            return;
+        }
+        vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
+            int n=candidates.size();
+            sort(candidates.begin(),candidates.end());
+            vector<vector<int>> ans;
+            vector<int> ds;
+            solve(candidates,ans,target,n,0,ds);
+            return ans;
+        }
+    };
