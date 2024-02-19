@@ -16,6 +16,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0039. Combination Sum](Solutions/0039.cpp)              |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)               |Medium    |
 |[0039. Combination Sum II](Solutions/0040.cpp)              |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)               |Medium    |
 |[0042. Trapping Rain Water](Solutions/0042.cpp)              |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)               |Hard |
+|[0062. Unique Paths](Solutions/0062.cpp)              |[Unique Paths](https://leetcode.com/problems/unique-paths/)               |Medium |
 |[0063. Unique Paths II](Solutions/0063.cpp)              |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)               |Medium |
 |[0064. Minimum Path Sum](Solutions/0064.cpp)              |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)               |Medium |
 |[0071. Simplify Path](Solutions/0071.cpp)              |[Simplify Path](https://leetcode.com/problems/simplify-path/description/)               |Medium    |
