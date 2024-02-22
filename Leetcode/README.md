@@ -50,6 +50,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0230. Kth Smallest Element in a BST.cpp](Solutions/0230.cpp)              |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                | Medium    |
 |[0267. Delete Node in a Linked List.cpp](Solutions/0237.cpp)              |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                | Easy    |
 |[0316. Remove Duplicate Characters.cpp](Solutions/0316.cpp)              |[Remove Duplicate Characters](https://leetcode.com/problems/remove-duplicate-letters/description/)                                    |Medium    |
+|[0322. Coin Change.cpp](Solutions/0316.cpp)              |[Coin Change](https://leetcode.com/problems/coin-change/)                                    |Medium    |
 |[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/reverse-string/description/)                                    |Medium    |
 |[0410. Split Array Largest Sum.cpp](Solutions/0410.cpp)              |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                     |Hard|
 |[0424. Longest Repeating Character Replacement.cpp](Solutions/0424.cpp)              |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)                     |Medium|
