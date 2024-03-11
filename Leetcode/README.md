@@ -20,6 +20,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0063. Unique Paths II](Solutions/0063.cpp)              |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)               |Medium |
 |[0064. Minimum Path Sum](Solutions/0064.cpp)              |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)               |Medium |
 |[0071. Simplify Path](Solutions/0071.cpp)              |[Simplify Path](https://leetcode.com/problems/simplify-path/description/)               |Medium    |
+|[0072. Edit Distance](Solutions/0072.cpp)              |[Edit Distance](https://leetcode.com/problems/edit-distance/)               |Medium    |
 |[0078. Subsets](Solutions/0078.cpp)              |[Subsets](https://leetcode.com/problems/subsets/description/)               |Medium    |
 |[0079. Subsets II](Solutions/0090.cpp)              |[Subsets II](https://leetcode.com/problems/subsets-ii/)               |Medium    |
 |[0079. Word Search](Solutions/0079.cpp)              |[Word Search](https://leetcode.com/problems/word-search/description/)               |Medium    |
