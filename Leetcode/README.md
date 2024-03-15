@@ -49,6 +49,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0225. Implement Stack using Queues.cpp](Solutions/0216.cpp)              |[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)                                    |Medium    |
 |[0226. Invert Binary Tree.cpp](Solutions/0237.cpp)              |[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                | Easy    |
 |[0230. Kth Smallest Element in a BST.cpp](Solutions/0230.cpp)              |[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                | Medium    |
+|[0238. Product of Array Except Self.cpp](Solutions/0238.cpp)              |[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                | Medium    |
 |[0267. Delete Node in a Linked List.cpp](Solutions/0237.cpp)              |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)                | Easy    |
 |[0316. Remove Duplicate Characters.cpp](Solutions/0316.cpp)              |[Remove Duplicate Characters](https://leetcode.com/problems/remove-duplicate-letters/description/)                                    |Medium    |
 |[0322. Coin Change.cpp](Solutions/0316.cpp)              |[Coin Change](https://leetcode.com/problems/coin-change/)                                    |Medium    |
@@ -65,7 +66,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0744. Find Smallest Letter Greater Than Target.cpp](Solutions/0744.cpp)              |[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)                                    |Easy    |
 |[0778. Swim in Rising Water.cpp](Solutions/0778.cpp)              |[Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/)                                    |Hard    |
 |[0779. K-th Symbol in Grammar.cpp](Solutions/0779.cpp)              |[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/description/)                                    |Medium    |
-|[0875. Binary Subarray With Sum.cpp](Solutions/0930.cpp)              |[Binary Subarray With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/ )                                    |Medium    |
+|[0930. Binary Subarray With Sum.cpp](Solutions/0930.cpp)              |[Binary Subarray With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/ )                                    |Medium    |
 |[0907. Sum of Subarray Minimums.cpp](Solutions/0907.cpp)              |[Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/ )                                    |Medium    |
 |[0930. Koko Eating Bananas.cpp](Solutions/0875.cpp)              |[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)                                    |Medium    |
 |[0931. Minimum Falling Path Sum.cpp](Solutions/0875.cpp)              |[Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/description/)                                    |Medium    |
