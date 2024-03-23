@@ -16,6 +16,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0039. Combination Sum](Solutions/0039.cpp)              |[Combination Sum](https://leetcode.com/problems/combination-sum/description/)               |Medium    |
 |[0039. Combination Sum II](Solutions/0040.cpp)              |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)               |Medium    |
 |[0042. Trapping Rain Water](Solutions/0042.cpp)              |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)               |Hard |
+|[0057. Insert Interval](Solutions/0057.cpp)              |[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)               |Hard |
 |[0062. Unique Paths](Solutions/0062.cpp)              |[Unique Paths](https://leetcode.com/problems/unique-paths/)               |Medium |
 |[0063. Unique Paths II](Solutions/0063.cpp)              |[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/)               |Medium |
 |[0064. Minimum Path Sum](Solutions/0064.cpp)              |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)               |Medium |
@@ -39,6 +40,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0129. Sum Root to Leaf Numbers](Solutions/0129.cpp)              |[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)               |Medium    |
 |[0142. Binary Tree Level Order Traversal.cpp](Solutions/0142.cpp)              |[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)         | Medium    |
 |[0142. Linked List Cycle II.cpp](Solutions/0142.cpp)              |[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)               |Medium    |
+|[0143. Reorder List.cpp](Solutions/0143.cpp)              |[Reorder List](https://leetcode.com/problems/reorder-list/description/)               |Medium    |
 |[0151. Reverse Words in a String.cpp](Solutions/0151.cpp)              |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)               |Medium    |
 |[0162. Find Peak Element.cpp](Solutions/0162.cpp)              |[Find Peak Element](https://leetcode.com/problems/find-peak-element/)                                    |Easy    |
 |[0198. House Robber.cpp](Solutions/0198.cpp)              |[House Robber](https://leetcode.com/problems/house-robber/description/)                                    |Medium    |
