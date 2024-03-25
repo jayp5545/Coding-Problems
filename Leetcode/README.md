@@ -58,6 +58,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0344. Reverse String.cpp](Solutions/0344.cpp)              |[Reverse String](https://leetcode.com/problems/reverse-string/description/)                                    |Medium    |
 |[0410. Split Array Largest Sum.cpp](Solutions/0410.cpp)              |[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)                     |Hard|
 |[0424. Longest Repeating Character Replacement.cpp](Solutions/0424.cpp)              |[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)                     |Medium|
+|[0442. Find All Duplicates in an Array.cpp](Solutions/0442.cpp)              |[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)                     |Medium|
 |[0450. Delete Node in a BST.cpp](Solutions/0424.cpp)              |[Delete Node in a BST](/https://leetcode.com/problems/delete-node-in-a-bst/description/)                     |Medium|
 |[0503. Next Greater ELement II.cpp](Solutions/0503.cpp)              |[Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)                     |Medium|
 |[0518. Coin Change II.cpp](Solutions/0518.cpp)              |[Coin Change II](https://leetcode.com/problems/coin-change-ii/)                     |Medium|
