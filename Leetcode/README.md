@@ -95,6 +95,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[1752. Check if Array is Sorted and Rotated.cpp](Solutions/1752.cpp)              |[Check if Array is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)   |Easy    | 
 |[1901. Find a Preak Element II.cpp](Solutions/1901.cpp)              |[Find a Preak Element II](https://leetcode.com/problems/find-a-peak-element-ii/description/)               |Medium    |
 |[1921. Eliminate Maximum Number of Monsters.cpp](Solutions/1921.cpp)              |[1921. Eliminate Maximum Number of Monsters](https://leetcode.com/problems/eliminate-maximum-number-of-monsters/)|              Medium    |
+|[2000. Reverse Prefix of Word.cpp](Solutions/2000.cpp)              |[2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/)|              Easy    |
 |[2125. Number of Laser Beams in a Bank.cpp](Solutions/2125.cpp)              |[2125. Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/)      |         Medium    |
 |[2130. Maximum Twin Sum of a Linked List.cpp](Solutions/2130.cpp)              |[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)               |Medium    |
 |[2236. Root Equals Sum of Children.cpp](Solutions/2130.cpp)              |[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/description/)               |Easy    |
