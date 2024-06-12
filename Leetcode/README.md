@@ -110,6 +110,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[2977. Minimum Number of Operations to Make Array XOR Equal to K.cpp](Solutions/2977.cpp)              |[Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)               |Medium    |
 |[3011.  Find if Array Can Be Sorted.cpp](Solutions/3011.cpp)              |[ Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)               |Medium    |
 |[3019.  Number of Changing Keys.cpp](Solutions/3019.cpp)              |[ Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/)               |Easy    |
+|[3020.  Find the Maximum Number of Elements in Subset.cpp](Solutions/3020.cpp)              |[ Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/)               |Medium    |
 |[3038.  Maximum Number of Operations With the Same Score I.cpp](Solutions/3038.cpp)              |[ Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/description/)               |Easy    |
 |[3039.  Apply Operations to Make String Empty.cpp](Solutions/3039.cpp)              |[ Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/description/)               |Medium    |
 
