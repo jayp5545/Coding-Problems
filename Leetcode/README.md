@@ -22,6 +22,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[0064. Minimum Path Sum](Solutions/0064.cpp)              |[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)               |Medium |
 |[0071. Simplify Path](Solutions/0071.cpp)              |[Simplify Path](https://leetcode.com/problems/simplify-path/description/)               |Medium    |
 |[0072. Edit Distance](Solutions/0072.cpp)              |[Edit Distance](https://leetcode.com/problems/edit-distance/)               |Medium    |
+|[0075. Sort Colors](Solutions/0075.cpp)              |[Sort Colors](https://leetcode.com/problems/sort-colors/description/)               |Medium    |
 |[0078. Subsets](Solutions/0078.cpp)              |[Subsets](https://leetcode.com/problems/subsets/description/)               |Medium    |
 |[0079. Subsets II](Solutions/0090.cpp)              |[Subsets II](https://leetcode.com/problems/subsets-ii/)               |Medium    |
 |[0079. Word Search](Solutions/0079.cpp)              |[Word Search](https://leetcode.com/problems/word-search/description/)               |Medium    |
@@ -108,6 +109,7 @@ Solutions to coding problems in **[LeetCode](https://leetcode.com/)**
 |[2966. Divide Array into Arrays With Max Difference.cpp](Solutions/2966.cpp)              |[Divide Array into Arrays with Max Difference](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)               |Medium    |
 |[2977. Minimum Number of Operations to Make Array XOR Equal to K.cpp](Solutions/2977.cpp)              |[Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/description/)               |Medium    |
 |[3011.  Find if Array Can Be Sorted.cpp](Solutions/3011.cpp)              |[ Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/)               |Medium    |
+|[3019.  Number of Changing Keys.cpp](Solutions/3019.cpp)              |[ Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/)               |Easy    |
 |[3038.  Maximum Number of Operations With the Same Score I.cpp](Solutions/3038.cpp)              |[ Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/description/)               |Easy    |
 |[3039.  Apply Operations to Make String Empty.cpp](Solutions/3039.cpp)              |[ Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty/description/)               |Medium    |
 
